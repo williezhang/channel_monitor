@@ -1,12 +1,12 @@
 # Getting started
 ```bash
-#clone the project</br>
-git clone 
+#clone the project  
+git clone https://github.com/williezhang/channel_monitor.git
 
-//install dependencies</br>
+//install dependencies  
 npm install
 
-//develop</br>
+//develop  
 npm run dev
 ```
 

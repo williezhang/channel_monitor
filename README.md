@@ -1,4 +1,5 @@
 # Getting started
+```bash
 #clone the project</br>
 git clone 
 
@@ -7,7 +8,9 @@ npm install
 
 //develop</br>
 npm run dev
+```
 
 # Build
+```bash
 npm run build
-
+```
